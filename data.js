@@ -1,6 +1,6 @@
 const options = {
   method: 'GET',
-  headers: {Authorization: 'Bearer zpka_86522a9ed1534a2182cef67cbc6ff180_6bd3e48a'
+  headers: {Authorization: 'Bearer zpka_6e8a84ebfb4b42ba84cbc9355b392f11_ca1f7280'
   }
 };
 async function getWeatherDetails(locationKey) {
